@@ -1,0 +1,22 @@
+{
+  "name": "front-end-web",
+  "version": "1.0.0",
+  "description": "trying",
+  "main": "index.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleemmallah124/Front-End-web.git"
+  },
+  "author": "Aleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleemmallah124/Front-End-web/issues"
+  },
+  "homepage": "https://github.com/aleemmallah124/Front-End-web#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
