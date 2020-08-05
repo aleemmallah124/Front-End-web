@@ -20,5 +20,9 @@
     "homepage": "https://github.com/aleemmallah124/Front-End-web#readme",
     "dependencies": {
         "lite-server": "^2.5.4"
+
+    },
+    "devDependencies": {
+        "minimist": ">=1.2.3"
     }
 }
